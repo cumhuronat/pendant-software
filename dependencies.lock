@@ -1,0 +1,16 @@
+dependencies:
+  esp-nimble-cpp:
+    component_hash: af8752384d2e00cb90bd9f7a085f06104e9c57e578d911b7975683075875081c
+    source:
+      git: https://github.com/cumhuronat/esp-nimble-cpp
+      path: .
+      type: git
+    version: 209f70a0839b18e59e97517c7c9276eefe53430b
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.3.0
+manifest_hash: 8e483921d3d56f72d2d48c161579a34119edef418115347d7cda6b2067c6544a
+target: esp32s3
+version: 1.0.0
